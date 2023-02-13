@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    password: szymon
+    username: szymon
+    url: jdbc:postgresql://localhost:5433/dziennikocen
+  jpa:
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.PostgreSQLDialect
+        format_sql: true
+    show-sql: true
+springdoc:
+  api-docs:
+    path: /dokumentacja
+  packages-to-scan: jereczek.dziennikocen.tables.przedmiot
