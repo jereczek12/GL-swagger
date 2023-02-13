@@ -1,8 +1,8 @@
-package jereczek.dziennikocen.tables.przedmiot;
+package jereczek.dziennikocen.przedmiot;
 
 import jakarta.persistence.*;
-import jereczek.dziennikocen.tables.kierunek.Kierunek;
-import jereczek.dziennikocen.tables.prowadzacy.Prowadzacy;
+import jereczek.dziennikocen.kierunek.Kierunek;
+import jereczek.dziennikocen.prowadzacy.Prowadzacy;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

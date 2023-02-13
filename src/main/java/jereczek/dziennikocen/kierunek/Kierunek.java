@@ -1,4 +1,4 @@
-package jereczek.dziennikocen.tables.kierunek;
+package jereczek.dziennikocen.kierunek;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

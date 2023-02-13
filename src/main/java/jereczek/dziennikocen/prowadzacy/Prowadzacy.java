@@ -1,4 +1,4 @@
-package jereczek.dziennikocen.tables.prowadzacy;
+package jereczek.dziennikocen.prowadzacy;
 
 
 import jakarta.persistence.*;

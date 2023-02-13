@@ -1,4 +1,4 @@
-package jereczek.dziennikocen.tables.przedmiot;
+package jereczek.dziennikocen.przedmiot;
 
 import jakarta.validation.Valid;
 import jereczek.dziennikocen.domain.Response;

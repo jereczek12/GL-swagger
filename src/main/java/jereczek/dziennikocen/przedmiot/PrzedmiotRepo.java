@@ -1,4 +1,4 @@
-package jereczek.dziennikocen.tables.przedmiot;
+package jereczek.dziennikocen.przedmiot;
 
 import org.springframework.data.domain.Pageable;
 import org.springframework.data.jpa.repository.JpaRepository;

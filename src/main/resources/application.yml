@@ -14,4 +14,4 @@ spring:
 springdoc:
   api-docs:
     path: /dokumentacja
-  packages-to-scan: jereczek.dziennikocen.tables.przedmiot
+  packages-to-scan: jereczek.dziennikocen.przedmiot

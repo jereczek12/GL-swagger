@@ -1,4 +1,4 @@
-package jereczek.dziennikocen.tables.przedmiot;
+package jereczek.dziennikocen.przedmiot;
 
 import java.util.Collection;
 
